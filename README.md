@@ -8,7 +8,7 @@ Fertilizers Recommendation System For Disease Prediction
   </head>
 <br>
 <br>
-  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS1UZjlOP64kllmQogLwi2FpYleiQ5BxP5eynS2GSC&s" height="400" width="400">
+  <img src ="https://watchandlearn.scholastic.com/content/dam/classroom-magazines/watchandlearn/videos/animals-and-plants/plants/what-are-plants-/What-Are-Plants.jpg" height="400" width="400">
   <p>
 Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases. Diseases on plants placed a major constraint on the production and a major threat to food security. Hence, early and accurate identification of plant diseases is essential to ensure high quantity and best quality.</p>
 
@@ -18,7 +18,7 @@ Agriculture is the most important sector in today’s life. Most plants are affe
 
 <br>
 <br>
-Mentor(Industry) Name : Khusboo
+Mentor(Industry) Name : Durga Prasad
 <br>
 <br>
 Mentor(Faculty)  Name : Gomathi
